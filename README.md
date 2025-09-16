@@ -31,3 +31,6 @@ The last element becomes the first one.
 The last element becomes the first one.
 
 `rrr` : `rra` and `rrb` at the same time
+
+## How to run
+`./push_swap 2 1 3 6 5 8`
