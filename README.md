@@ -1,4 +1,4 @@
-# push_swap
+## Description
 Sorting program that sorts integers using two stacks and a limited sets of operations.
 
 ## Available operations
